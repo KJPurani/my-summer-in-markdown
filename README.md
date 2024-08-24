@@ -12,18 +12,12 @@ This summer has been a whirlwind of amazing experiences. It started with my firs
 - Explored my hometown and relived old memories.
 - Enjoyed authentic Indian cuisine that I missed dearly.
 
-![Solo Travel to India]
-<img src="fountain_ave.jpg" width="500">
-
-
 ### **USC Bovard Scholars Program**
 
 After returning to the US, I had the incredible opportunity to spend three weeks at the **USC Bovard Scholars Program**. This was a prestigious college prep program, but the real highlight was:
 - **Meeting new friends** from all over the USA.
 - Engaging in **meaningful discussions** and expanding my perspective on various topics.
 - Gaining **valuable insights** into college life and preparation.
-
-![USC Bovard Program View](https://github.com/yourusername/my-summer-in-markdown/blob/main/WhatsApp%20Image%202024-08-23%20at%2019.16.04_08296f36.jpg)
 
 ## Personal Achievements
 
