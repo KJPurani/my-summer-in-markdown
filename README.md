@@ -67,13 +67,7 @@ This summer, I founded the California branch of the **Hunger Free Hearts Project
 - **Collecting food** and donating it to those in need across the state.
 - Providing **educational sessions** about food insecurity to elementary and middle school students.
 
+(https://www.instagram.com/p/C-WwaYFRowL/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+
 In just a few months, our team has grown to over 40 members, and I’m proud of the impact we’re making.
 
-## My Favorite Memory
-![Family Reunion in India](https://www.instagram.com/p/C-WwaYFRowL/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
-
-This summer’s highlight was definitely reuniting with my family in India. The joy of seeing familiar faces after so long, sharing stories, and experiencing the warmth of home again was indescribable. This photo captures a moment from that reunion, and it's a memory I’ll cherish forever.
-
-## Links
-- [My GitHub Profile](https://github.com/yourusername)
-- [Project Repository](https://github.com/yourusername/my-summer-in-markdown)
