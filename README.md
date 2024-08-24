@@ -23,12 +23,8 @@ After returning to the US, I had the incredible opportunity to spend three weeks
 
 ### **Research Milestones**
 
-This summer, I reached several significant milestones in my research:
-- **4 Research Papers Accepted** at various conferences.
-- Presented at the **Innovation and Knowledge Conference** in Japan.
-- Preparing to present my fourth paper in Arizona.
+This summer, I achieved several significant milestones in my research. I had four research papers accepted at various conferences, which was a pretty great accomplishment for me. I also had the opportunity to present at the Innovation and Knowledge Conference in Japan, and I’m currently preparing to present my fourth paper in Arizona. These experiences have been pivotal in my journey towards a career in biomedical research, marking important steps forward in my academic and professional development.
 
-These achievements feel like major steps forward in my journey towards a career in biomedical research.
 
 ## Expectations for This Class
 
