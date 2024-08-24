@@ -36,10 +36,7 @@ These achievements feel like major steps forward in my journey towards a career 
 
 ## Expectations for This Class
 
-For this AP Computer Science A class, I’m excited to:
-- **Deepen my understanding** of computational science, which is crucial in every field, especially biology.
-- **Apply new skills** to my research, enhancing the integration of technology in biomedical studies.
-- **Earn an A** in the class and perform well on the AP exam.
+In this AP Computer Science A class, I'm really looking forward to diving deeper into computational science, especially since it’s so important in fields like biology that I love. I’m excited to pick up new skills that I can use in my research, making tech a bigger part of what I do. And of course, I’m aiming to get an A in the class and do well on the AP exam, so I’m ready to take on whatever comes next!
 
 ## Tech Projects and Experiences
 
