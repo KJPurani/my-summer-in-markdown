@@ -53,12 +53,7 @@ This project has been a significant learning experience and has further fueled m
 
 ### **Hunger Free Hearts - California Branch**
 
-This summer, I founded the California branch of the **Hunger Free Hearts Project**. Here’s what we’ve been up to:
-
-**Activities:**
-- Hosting **food drives** outside places like Trader Joe's and Costco.
-- **Collecting food** and donating it to those in need across the state.
-- Providing **educational sessions** about food insecurity to elementary and middle school students.
+This summer, I founded the California branch of the **Hunger Free Hearts Project**. We’ve been actively involved in several meaningful initiatives. One of our key activities includes hosting food drives outside popular locations like Trader Joe's and Costco, where we collect food and donate it to those in need across the state. Additionally, we’ve been providing educational sessions about food insecurity to elementary and middle school students, helping to raise awareness and spread knowledge about this important issue.
 
 (https://www.instagram.com/p/C-WwaYFRowL/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
