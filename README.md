@@ -12,7 +12,9 @@ This summer has been a whirlwind of amazing experiences. It started with my firs
 - Explored my hometown and relived old memories.
 - Enjoyed authentic Indian cuisine that I missed dearly.
 
-![Solo Travel to India](https://github.com/yourusername/my-summer-in-markdown/blob/main/WhatsApp%20Image%202024-08-23%20at%2019.14.06_d6757385.jpg)
+![Solo Travel to India]
+<img src="fountain_ave.jpg" width="500">
+
 
 ### **USC Bovard Scholars Program**
 
